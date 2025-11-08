@@ -8,7 +8,7 @@ It also provides **data visualizations** and a **Flask API** for making predicti
 
 ## 📂 Project Structure
 
-```
+
 
 student-performance-prediction/
 │
@@ -183,4 +183,3 @@ GET /plots/correlation_heatmap.png
 ```
 
 
-```
