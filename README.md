@@ -1,5 +1,3 @@
-Absolutely! Here's a **complete Markdown README** ready to use for your Student Performance Prediction project, fully detailed with visuals, API instructions, and project explanation:
-
 ```markdown
 # Student Performance Prediction API
 
@@ -40,7 +38,6 @@ student-performance-prediction/
 
 ### Distribution of Final Grades
 ![Distribution of Final Grades](app/plots/score_distribution.png)
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/0b55af72-c51d-4a19-aa1d-c881e712f092" />
 
 ### Final Grade by Sex
 ![Final Grade by Sex](app/plots/G3_by_sex.png)
@@ -185,9 +182,5 @@ GET /plots/correlation_heatmap.png
 
 ```
 
----
 
-If you want, I can **also prepare a fully structured ZIP version of this project** with the notebooks, Flask app, trained model (or code to generate it), and plot images so it’s plug-and-play.  
-
-Do you want me to create that next?
 ```
