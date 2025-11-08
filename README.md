@@ -38,7 +38,7 @@ student-performance-prediction/
 
 ### Distribution of Final Grades
 ![Distribution of Final Grades](app/plots/score_distribution.png)
-![Distribution](student-performance-prediction-fixed/app/plots/score_distribution.png)
+![Distribution](student-performance-prediction-fixed/app/plots/G3_distribution.png)
 
 
 
