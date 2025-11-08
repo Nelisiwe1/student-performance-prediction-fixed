@@ -4,7 +4,7 @@
 This project predicts student performance using a **Random Forest model** trained on the [Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/Student+Performance).  
 It also provides **data visualizations** and a **Flask API** for making predictions.
 
----
+
 
 ## 📂 Project Structure
 
@@ -37,16 +37,15 @@ student-performance-prediction/
 ## 📊 Data Visualizations
 
 ### Distribution of Final Grades
-![Distribution of Final Grades](app/plots/score_distribution.png)
 ![Distribution](student-performance-prediction-fixed/app/plots/G3_distribution.png)
 
 
 
 ### Final Grade by Sex
-![Final Grade by Sex](app/plots/G3_by_sex.png)
+![Final Grade by Sex](student-performance-prediction-fixed/app/plots/G3_by_sex.png)
 
 ### Correlation Heatmap (Numeric Features)
-![Correlation Heatmap](app/plots/correlation_heatmap.png)
+![Correlation Heatmap](student-performance-prediction-fixed/app/plots/student_correlation_heatmap.png)
 
 ---
 
@@ -182,7 +181,6 @@ GET /plots/correlation_heatmap.png
 ## 👩‍💻 Author
 
 **Nelisiwe Ngqeme** – IT & Application Development Enthusiast
-
 ```
 
 
