@@ -38,6 +38,8 @@ student-performance-prediction/
 
 ### Distribution of Final Grades
 ![Distribution of Final Grades](app/plots/score_distribution.png)
+![Score Distribution](plots/score_distribution.png)
+
 
 ### Final Grade by Sex
 ![Final Grade by Sex](app/plots/G3_by_sex.png)
