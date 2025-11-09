@@ -41,8 +41,8 @@ student-performance-prediction/
 
 
 
-### Final Grade by Sex
-![Final Grade by Sex](student-performance-prediction-fixed/app/plots/G3_by_sex.png)
+### Final Grade by gender
+![Final Grade by gender](student-performance-prediction-fixed/app/plots/G3_by_sex.png)
 
 ### Correlation Heatmap (Numeric Features)
 ![Correlation Heatmap](student-performance-prediction-fixed/app/plots/student_correlation_heatmap.png)
